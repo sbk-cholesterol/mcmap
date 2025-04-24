@@ -8,7 +8,7 @@ var UnminedMapProperties = {
     minRegionZ: -37,
     maxRegionX: 19,
     maxRegionZ: 11,
-    worldName: "Railway (23/4)",
+    worldName: "Railway",
     background: "",
     markers: new Array(),
     enableGrid: true,
